@@ -139,6 +139,8 @@ endif ()
 # Threads
 find_package(Threads REQUIRED)
 
+set(BOOST_ROOT "C:/Project/Boost")
+
 # Boost
 find_package( Boost 1.55 COMPONENTS system thread filesystem REQUIRED )
 include_directories( ${Boost_INCLUDE_DIR} )
