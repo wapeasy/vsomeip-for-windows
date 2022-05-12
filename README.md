@@ -9,4 +9,4 @@
 ### Build method
 [shdydgdheudjd ’s blog](https://blog.stilltask.com/)  
 ↓  
-[vsomeip-windows库制作系列一](https://blog.stilltask.com/vsomeip-windows%E5%BA%93%E5%88%B6%E4%BD%9C%E7%B3%BB%E5%88%97%E4%B8%80)
+[vsomeip For Windows](https://blog.stilltask.com/vsomeip-for-windows)
